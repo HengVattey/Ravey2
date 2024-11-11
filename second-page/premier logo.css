@@ -1,0 +1,197 @@
+.logo{
+    border-radius: 8px;
+    width: 110px;
+    height: 40px;
+   
+}
+.logo-pre{
+ 
+    height: 35px;
+    width: 55px;
+    margin-right: 190px;
+}
+
+.dropdown:hover{
+
+}
+form{
+  
+  display: flex;
+  justify-content: space-between;
+}
+.btn-border{
+  width: 240px;
+  border-radius: 20px;
+}
+.nav-icon{
+  color: black;
+  background-color: rgb(212, 199, 199);
+  border-radius: 5px;
+}
+.banking{
+  width: 150px;
+  padding-left: 8px;
+ border-radius: 20px;
+}
+.juorney{
+  font-size: 35px;
+  width: 350px;
+}
+.juorney-cap{
+  width: 450px;
+  font-size: 17px;
+}
+.btn-style{
+  border-radius: 40px;
+}
+.card:hover{
+margin-bottom: 3px;
+margin-top: 5px;
+cursor: pointer;
+}
+.icon-card{
+width: 15px;
+height: 15px;
+margin-top: 4px;
+margin-left: 5px;
+
+}
+.icon-cardme{
+height: 46px;
+width: 46px;
+background-color: rgb(230, 46, 46);
+border-radius: 23px;
+
+
+}
+.font-cap{
+color: grey;
+font-family: arial;
+
+}
+.cantact-me{
+padding: 5px;
+text-decoration: none;
+color: gray;
+}
+.cantact-me:hover{
+color: black;}
+.phone-icon{
+width: 23px;
+height: 18px;
+}
+.image-bg{
+background-image: url(../canadia-logo/premier\ bg.jpg);
+position: relative;
+width: auto;
+height: 670px;
+}
+.text-bg{
+padding-top: 250px;
+}
+.btn-finout{
+display: flex;
+justify-content: end;
+height:60px;
+
+}
+.btn:hover{
+padding: 1px;;
+
+}
+
+.icon-link{
+padding: auto;
+font-size: 20px;
+}
+.bg-icon{
+width: 25px;
+height: 25px;
+margin-left: 10px;
+
+}
+i{
+font-size: 30px;
+}
+.bg-cap{
+background-image: url(../pic-sec-page/cap-bg.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+.btn-finout{
+display: flex;
+justify-content: center;
+
+}
+.navbar-nav{
+
+}
+.per-block{
+display: block;
+
+
+}
+ }
+
+
+@media (max-width: 767.98px) { 
+
+
+ }
+
+
+@media (max-width: 991.98px) {
+
+.nav-item{
+display: none;}
+.per-block{
+display: block;
+width: 10px;
+ }
+ .bg-cap{
+ font-size: 17px;
+ }
+ .icon-loc{
+padding-right: 64%;
+ }
+
+ 
+ }
+
+
+
+@media (max-width: 1199.98px) { 
+.canadia-pad{
+padding-left: 150px;
+}
+.num-contact{
+display: flex;
+justify-content: center;
+}
+.informetion{
+margin-top: 20px;
+}
+.bg-cap{
+ font-size: 15px;
+ }
+
+ }
+
+@media (max-width: 1399.98px) {
+
+.open-acc-cap{
+width: 320px;
+}
+}

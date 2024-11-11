@@ -1,0 +1,455 @@
+.logo {
+    border-radius: 8px;
+    width: 110px;
+    height: 40px;
+
+}
+
+.logo-pre {
+
+    height: 35px;
+    width: 55px;
+    margin-right: 190px;
+}
+
+.btn {
+    font-size: 20px;
+    scale: 0.6s;
+    width: 270px;
+    height: 60px;
+    border-radius: 30px;
+}
+
+.btn:hover {
+    box-shadow: 8px 8px 8px rgb(221, 219, 219);
+
+}
+
+
+
+
+i {
+    font-size: 30px;
+}
+
+.Promotions-div {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portrait-img {
+    border-radius: 20px;
+    width: 100%;
+    transition: box-shadow .2s, transform .2s;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 #0000;
+}
+
+.image-bg {
+    background-image: url(../second-page/banking1.jpg);
+    width: 100%;
+    height: 550px;
+}
+
+.img-1 {
+    background-image: url(../second-page/banking3.html);
+    width: 100%;
+    height: 550px;
+}
+
+.heading-can {
+    color: red;
+    padding-top: 350px;
+    padding-left: 22px;
+    font-size: 20px;
+}
+
+.heading-c {
+    color: red;
+    padding-top: 350px;
+    padding-left: 22px;
+    font-size: 20px;
+}
+
+.border {
+    border-style: solid;
+    margin-top: 20px;
+    transition: 0.8s;
+}
+
+.border:hover {
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px rgb(209, 199, 199);
+    scale: 0.8s;
+}
+
+
+
+
+.phone-icon {
+    width: 25px;
+    height: 25px;
+}
+
+.cantact-me {
+    color: gray;
+}
+
+.cantact-me:hover {
+    color: black;
+}
+
+.Open-btn {
+    height: 50px;
+}
+
+.image-3card {
+    position: absolute;
+    height: 100%;
+
+}
+
+.cap-cardpic {
+    width: 100%;
+    height: 200px;
+    position: relative;
+    border: 1px;
+    margin-top: 390px;
+    border-radius: 5px;
+    border-style: solid;
+    margin-bottom: 30px;
+    border-color: rgb(211, 206, 206);
+
+}
+
+.pad-cad2 {
+    margin-top: 130px;
+}
+
+.pad-cad3 {
+    margin-top: 90px;
+}
+
+.text-primary-1 {
+    color: rgb(249, 18, 18);
+}
+
+.text-primary-2 {
+    font-size: 45px;
+    color: rgb(81, 76, 76);
+}
+
+.text-primary-3 {
+    font-size: 21px;
+}
+
+.text-pad {
+    margin-top: 90px;
+}
+
+.btn-wid {
+    padding-top: 15px;
+    width: 280px;
+    height: 80px;
+    scale: 0.8s;
+
+
+}
+
+.btn-wid:hover {
+    padding-top: 1px;
+    transition: 0.8s;
+
+}
+
+.icon-right1:hover {
+    cursor: pointer;
+    margin-right: 5px;
+    transition: 0.7s;
+}
+
+.icon-right1 {
+    margin-top: 30px;
+}
+
+.icon-right {
+    width: 15px;
+    margin-top: 35px;
+
+}
+
+.p-icon-right {
+    width: 30px;
+}
+
+.p-icon-right:hover {
+
+    padding-left: 5px;
+    transition: 0.6s;
+}
+
+.bg-abso {
+    position: absolute;
+    width: 100%;
+    height: 650px;
+
+}
+
+.bg-caption {
+    position: relative;
+    height: auto;
+    padding-top: 200px;
+
+
+}
+
+.caption-2-bg {
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+}
+
+.caption-3-bg {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    color: azure;
+    justify-content: center;
+    width: 670px;
+    margin-left: 230px;
+
+
+}
+
+.caption-1-bg {
+    display: flex;
+    justify-content: center;
+}
+
+.open-style {
+    margin-top: 60px;
+    height: 150px;
+    padding-top: 50px;
+}
+
+.navbar-toggler-icon {
+    background-color: rgb(181, 173, 173);
+    border-radius: 4px;
+
+}
+
+.nav-icon {
+    background-color: rgb(102, 105, 108);
+}
+
+.magintop {
+    margin-top: 50px;
+}
+
+.open-margin {
+    margin-top: 80px;
+}
+
+.img-screen {
+    height: 600px;
+    margin-top: 300px;
+}
+
+.open-size-cap {
+    width: 290px;
+    margin-top: 10px;
+}
+
+.c-cap1 {
+    color: rgb(223, 11, 11);
+    font-size: 17px;
+    
+}
+
+.c-cap2 {
+    font-size: 37px;
+}
+
+.c-cap3 {
+    font-size: 14px;
+}
+
+.btn-pad {
+    width: 400px;
+
+    height: 100px;
+    padding-top: 20px;
+}
+
+.btn-pad:hover {
+    padding-top: 10px;
+    transition: 0.8s;
+}
+
+.box-shadow-sc {
+    margin-top: 330px;
+    border-style: solid;
+    border-radius: 5px;
+    padding-left: 40px;
+ border: 1px;
+ border-color: antiquewhite;
+ box-shadow: 2px 2px 5px 5px rgb(223, 221, 221);
+ height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+
+ 
+
+    .pad-cad3 {
+        margin-top: 130px;
+    }
+
+    .open-style {
+        margin-top: 280px;
+    }
+
+    .bg-abso {
+        width: 100%;
+        height: 200px;
+    }
+
+    .box-shadow-sc {
+        margin-top: 10px;
+    }
+
+
+
+
+
+}
+
+
+@media (max-width: 767.98px) {
+    .portrait-link-box-heading {
+        margin-bottom: 18px;
+    }
+
+    .image-bg {
+        background-image: url(../second-page/banking1.jpg);
+        width: 73%;
+    }
+
+    .pad-cad3 {
+        margin-top: 130px;
+    }
+
+    .text-primary-2 {
+        font-size: 35px;
+    }
+
+    .text-primary-3 {
+        font-size: 16px;
+    }
+
+    .btn {
+        font-size: 17px;
+
+        width: 240px;
+
+    }
+
+    .bg-caption {
+        padding-top: 50px;
+
+    }
+    .box-shadow-sc {
+        margin-top: 10px;
+    }
+
+    .caption-2-bg {
+        font-size: 30px;
+
+    }
+
+    .caption-3-bg {
+        font-size: 15px;
+        width: 470px;
+        display: flex;
+        margin-left: 40px;
+
+    }
+
+    .bg-abso {
+
+        height: 380px;
+    }
+
+    .navbar-toggler-icon {
+        background-color: rgb(181, 173, 173);
+    }
+
+
+}
+
+
+@media (max-width: 991.98px) {
+
+    .nav-item {
+        display: none;
+    }
+
+
+    .navbar-toggler-icon {
+        background-color: rgb(181, 173, 173);
+    }
+
+    .bg-abso {
+        height: 400px;
+    }
+}
+
+
+
+
+
+@media (max-width: 1199.98px) {
+    .canadia-pad {
+        padding-left: 150px;
+    }
+
+    .num-contact {
+        display: flex;
+        justify-content: center;
+    }
+
+    .open-style {
+        margin-top: 90px;
+    }
+
+    .bg-abso {
+
+        height: 500px;
+    }
+
+
+
+
+}
+
+@media (max-width: 1399.98px) {}
